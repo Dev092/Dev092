@@ -11,7 +11,6 @@
 - I’m a tech enthusiast who keeps on exploring new things and doing experiments with new technologies.
 - I love to collaborate with new people and therefore I'm always open for collaboration.
 - Feel free to connect with me.
-
 <br>
 
 
@@ -24,6 +23,8 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></code> &nbsp;
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/></code> &nbsp;
+
 </br></br>
 
 
